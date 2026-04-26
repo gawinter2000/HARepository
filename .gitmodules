@@ -1,4 +1,0 @@
-[submodule "batmon-ha"]
-	path = batmon-ha
-	url = https://github.com/joagonca/batmon-ha
-	branch = master
